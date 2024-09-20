@@ -1,3 +1,3 @@
 module Swaggard
-  VERSION = '1.4.0'
+  VERSION = '1.4.1'.freeze
 end
